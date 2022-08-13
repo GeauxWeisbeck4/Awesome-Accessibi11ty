@@ -1,0 +1,21 @@
+{
+  "title": "React Party Time Notes",
+  "url": "https://react-party-time.netlify.app",
+  "language": "en",
+  "description": "These are my fun and hopefully informative notes on React.",
+  "feed": {
+    "subtitle": "These are my fun and hopefully informative notes on React.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://react-party-time.netlify.app/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://react-party-time.netlify.app/feed/feed.json"
+  },
+  "author": {
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://react-party-time.netlify.app/about-me/"
+  }
+}
